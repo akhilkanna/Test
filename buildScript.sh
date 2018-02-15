@@ -1,0 +1,1 @@
+echo "built Product" >> builtProduct
